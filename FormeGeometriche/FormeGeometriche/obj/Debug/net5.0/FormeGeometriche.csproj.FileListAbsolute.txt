@@ -1,0 +1,16 @@
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.exe
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.deps.json
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.runtimeconfig.json
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.runtimeconfig.dev.json
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\ref\FormeGeometriche.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.pdb
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.csprojAssemblyReference.cache
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.AssemblyInfoInputs.cache
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.AssemblyInfo.cs
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\ref\FormeGeometriche.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.pdb
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.genruntimeconfig.cache
