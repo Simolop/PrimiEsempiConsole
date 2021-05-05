@@ -11,12 +11,12 @@ namespace FormeGeometriche
         public double Larghezza { get; set; }
         public double Altezza { get; set; }
 
-        public Rettangolo(string nome, double larghezza, double altezza)
-            : base(nome)
-        {
-            Larghezza = larghezza;
-            Altezza = altezza;
-        }
+        //public Rettangolo(string nome, double larghezza, double altezza)
+        //    : base(nome)
+        //{
+        //    Larghezza = larghezza;
+        //    Altezza = altezza;
+        //}
         public override double Area()
         {
             return Larghezza * Altezza;

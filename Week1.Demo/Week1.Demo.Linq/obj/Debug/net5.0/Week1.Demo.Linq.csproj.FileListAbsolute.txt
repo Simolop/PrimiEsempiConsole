@@ -1,0 +1,16 @@
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\Week1.Demo.Linq.exe
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\Week1.Demo.Linq.deps.json
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\Week1.Demo.Linq.runtimeconfig.json
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\Week1.Demo.Linq.runtimeconfig.dev.json
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\Week1.Demo.Linq.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\ref\Week1.Demo.Linq.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\bin\Debug\net5.0\Week1.Demo.Linq.pdb
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.csprojAssemblyReference.cache
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.AssemblyInfoInputs.cache
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.AssemblyInfo.cs
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.csproj.CoreCompileInputs.cache
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\ref\Week1.Demo.Linq.dll
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.pdb
+C:\Users\simona.loperfido\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Linq\obj\Debug\net5.0\Week1.Demo.Linq.genruntimeconfig.cache
