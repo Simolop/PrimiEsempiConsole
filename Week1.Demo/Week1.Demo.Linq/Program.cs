@@ -43,14 +43,14 @@ namespace Week1.Demo.Linq
             var votiMatematicaOrdinati = voti
                 .Where(v => v.Materia == Materia.Matematica)
                 .OrderBy(v => v.DataValutazione)
-                //.ThenBy(v => v.Voto) se voglio fare un altro ordinamento, es anche per voto
+                .ThenBy(v => v.Voto) //se voglio fare un altro ordinamento, es anche per voto
                 ;
 
             //equivalente a:
             var votiMatematicaOrdinatiFA =
                 from voto in voti
                 where voto.Materia == Materia.Matematica
-                orderby voto.DataValutazione
+                orderby voto.DataValutazione, voto.Voto descending
                 select voto;
 
             Console.WriteLine("Voti in matematica ordinati");
